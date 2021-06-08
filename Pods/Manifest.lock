@@ -22,7 +22,7 @@ DEPENDENCIES:
   - BDBOAuth1Manager
 
 SPEC REPOS:
-  trunk:
+  https://github.com/cocoapods/specs.git:
     - AFNetworking
     - BDBOAuth1Manager
 
@@ -32,4 +32,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: a441256d54093b916e309cb7bdeecd00b6cf713a
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.5.3
