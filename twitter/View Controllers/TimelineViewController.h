@@ -10,4 +10,8 @@
 
 @interface TimelineViewController : UIViewController
 
+@property (nonatomic, strong) NSMutableArray *tweetArray;
+
+//TODO: add UITableViewDataSource methods
+
 @end
